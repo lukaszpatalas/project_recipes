@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+}
+
+ul {
+    background-color: lightcoral;
+}
+
+ol {
+    background-color: lightblue;
+}
+
+li {
+    color: black;
+}
+
+p {
+    background-color: lightskyblue;
+}
